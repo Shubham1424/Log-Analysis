@@ -1,0 +1,14 @@
+Type,Identifier,Count
+IP Address,192.168.1.1,7
+IP Address,203.0.113.5,8
+IP Address,10.0.0.2,6
+IP Address,198.51.100.23,8
+IP Address,192.168.1.100,5
+Endpoint,/home,5
+Endpoint,/login,13
+Endpoint,/about,5
+Endpoint,/contact,2
+Endpoint,/register,2
+Endpoint,/dashboard,3
+Endpoint,/profile,2
+Endpoint,/feedback,2
